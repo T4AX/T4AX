@@ -17,7 +17,7 @@ I'm **Taha Usman**, also known online as **T4AX** — a 15-year-old self-taught 
 ---
 
 ### 🚀 Featured Project
-**[CalmShift](#)** – An all-in-one productivity app with:
+**[CalmShift](https://github.com/T4AX/CalmShift)** – An all-in-one productivity app with:
 - 🔹 Linked focus sessions (Pomodoro-style)
 - 🔹 Project & task management
 - 🔹 Motivational quotes & history tracking
